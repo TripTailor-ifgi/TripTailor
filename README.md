@@ -40,17 +40,17 @@ docker compose up -d
    - Moritz Denk - [GitHub](https://github.com/denkmoritz)
 
 2. Frameworks for Frontend, Backend & Database
-    - **Frontend**
+    - Frontend
         - [Vue](https://vuejs.org/), [Vite](https://vite.dev/), [Pinia](https://pinia.vuejs.org/)
         - [Bootstrap](https://getbootstrap.com/)
         - [OpenLayers](https://openlayers.org/)
         - [Axios](https://axios-http.com/), [GSAP](https://gsap.com/)
 
-    - **Backend**
+    - Backend
         - [Flask](https://flask.palletsprojects.com/en/stable/), [Flask-Cors](https://pypi.org/project/Flask-Cors/)
         - [psycopg2](https://www.psycopg.org/docs/)
 
-    - **Database**
+    - Database
         - [kartoza/postgis](https://hub.docker.com/r/kartoza/postgis/)
 
 3. Third-Party Libraries & APIs
