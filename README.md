@@ -13,6 +13,19 @@
 
 ## Installation
 
+### Clone repository
+
+```bash
+git clone https://github.com/TripTailor-ifgi/TripTailor.git
+cd TripTailor
+```
+
+### Run the docker-compose.yml
+
+```bash
+docker compose up -d
+```
+
 ## Usage
 
 ## Credits
