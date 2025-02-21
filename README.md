@@ -32,12 +32,19 @@ docker compose up -d
 
 ## Credits
 
-1. **Contributors**
+1. Contributors
    - Tobias Brank - [GitHub](https://github.com/TobiasBrand-GI)
    - Frederick Schindlegger - [GitHub](https://github.com/f-schi)
    - Wenhao Lan - [GitHub](https://github.com/whlan02)
    - Erkam Dogan - [GitHub](https://github.com/rkmd0)
    - Moritz Denk - [GitHub](https://github.com/denkmoritz)
+
+2. Third-Party Libraries & APIs
+    - [OpenRouteService API](https://openrouteservice.org/)
+    - [OpenStreetMap Data for the City of Münster](https://opendata.stadt-muenster.de/dataset/openstreetmaps-rohdaten-f%C3%BCr-m%C3%BCnster)
+    - [Komoot Photon Geocoding API](https://photon.komoot.io/)
+    - [basemap.de](https://basemap.de/)
+    
 
 ## License
 
