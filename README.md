@@ -40,11 +40,11 @@ docker compose up -d
    - Moritz Denk - [GitHub](https://github.com/denkmoritz)
 
 2. Third-Party Libraries & APIs
+    - [basemap.de](https://basemap.de/)
+    - [Komoot Photon Geocoding API](https://photon.komoot.io/)
+    - Map Icons([1](https://uxwing.com/), [2](https://icons.getbootstrap.com/), [3](https://www.svgrepo.com/))
     - [OpenRouteService API](https://openrouteservice.org/)
     - [OpenStreetMap Data for the City of Münster](https://opendata.stadt-muenster.de/dataset/openstreetmaps-rohdaten-f%C3%BCr-m%C3%BCnster)
-    - [Komoot Photon Geocoding API](https://photon.komoot.io/)
-    - [basemap.de](https://basemap.de/)
-    
 
 ## License
 
