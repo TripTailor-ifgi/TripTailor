@@ -32,12 +32,12 @@ docker compose up -d
 
 ## Credits
 
-1. Contributors
-    - Tobias Brank, [GitHub](https://github.com/TobiasBrand-GI)
-    - Frederick Schindlegger, [GitHub](https://github.com/f-schi)
-    - Wenhao Lan, [GitHub](https://github.com/whlan02)
-    - Erkam Dogan, [GitHub](https://github.com/rkmd0)
-    - Moritz Denk, [GitHub](https://github.com/denkmoritz)
+1. **Contributors**
+   - Tobias Brank - [GitHub](https://github.com/TobiasBrand-GI)
+   - Frederick Schindlegger - [GitHub](https://github.com/f-schi)
+   - Wenhao Lan - [GitHub](https://github.com/whlan02)
+   - Erkam Dogan - [GitHub](https://github.com/rkmd0)
+   - Moritz Denk - [GitHub](https://github.com/denkmoritz)
 
 ## License
 
