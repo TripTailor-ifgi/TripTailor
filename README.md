@@ -40,16 +40,19 @@ docker compose up -d
    - Moritz Denk - [GitHub](https://github.com/denkmoritz)
 
 2. Frameworks for Frontend, Backend & Database
-    - [Vue](https://vuejs.org/), [Vite](https://vite.dev/), [Pinia](https://pinia.vuejs.org/)
-    - [Bootstrap](https://getbootstrap.com/)
-    - [OpenLayers](https://openlayers.org/)
-    - [Axios](https://axios-http.com/), [GSAP](https://gsap.com/)
+    - **Frontend**
+        - [Vue](https://vuejs.org/), [Vite](https://vite.dev/), [Pinia](https://pinia.vuejs.org/)
+        - [Bootstrap](https://getbootstrap.com/)
+        - [OpenLayers](https://openlayers.org/)
+        - [Axios](https://axios-http.com/), [GSAP](https://gsap.com/)
 
-    - [Flask](https://flask.palletsprojects.com/en/stable/), [Flask-Cors](https://pypi.org/project/Flask-Cors/)
-    - [psycopg2](https://www.psycopg.org/docs/)
+    - **Backend**
+        - [Flask](https://flask.palletsprojects.com/en/stable/), [Flask-Cors](https://pypi.org/project/Flask-Cors/)
+        - [psycopg2](https://www.psycopg.org/docs/)
 
-    - [kartoza/postgis](https://hub.docker.com/r/kartoza/postgis/)
-    
+    - **Database**
+        - [kartoza/postgis](https://hub.docker.com/r/kartoza/postgis/)
+
 3. Third-Party Libraries & APIs
     - [basemap.de](https://basemap.de/)
     - [Komoot Photon Geocoding API](https://photon.komoot.io/)
