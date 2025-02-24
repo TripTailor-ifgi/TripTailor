@@ -32,6 +32,28 @@ docker compose up -d
 
 ## Usage
 
+Once the Docker containers are running, the web application can be accessed at [localhost](http://localhost:5173).
+
+### 1. Start the Application  
+The home page is the starting point. Click the **"Start Now"** button to begin.
+
+![Home Page](assets/start_page.png)
+
+### 2. Select Filters  
+Choose the necessary filters, such as the starting point. Once selected, click **"Apply Filter"**.
+
+![Choose Filters](assets/quiz_filters.png)
+
+### 3. Add Locations  
+Select the desired locations for routing. When done, click **"Start Routing"**.
+
+![Add Locations](assets/add_location.png)
+
+### 4. View and Adjust the Route  
+The initial route will be displayed along with routing descriptions. Users can add or remove locations by clicking the visible icons.
+
+![Initial Map](assets/map_initialroute.png)
+
 ## Credits
 
 1. Contributors
