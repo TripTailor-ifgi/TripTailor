@@ -14,7 +14,7 @@ The docker compose file of the project is based on the following GitHub reposito
 ## Requirements
 
 1. This project is based on Docker. If necessary, please download the [Docker Desktop App](https://www.docker.com/products/docker-desktop/).
-2. To be able to use the project, a [OpenRouteService API](https://openrouteservice.org/) is necessary. The API key needs to be added to the .env file.
+2. To be able to use the project, a [OpenRouteService API key](https://openrouteservice.org/) is necessary. Replace the plaeeholder `<YOUR API KEY>` with the acutal key in the .env file.
 
 ## Installation
 
