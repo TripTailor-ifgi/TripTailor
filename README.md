@@ -86,7 +86,7 @@ The initial route will be displayed along with routing descriptions. Users can a
     - [OpenStreetMap Data for the City of Münster](https://opendata.stadt-muenster.de/dataset/openstreetmaps-rohdaten-f%C3%BCr-m%C3%BCnster)
 
 ## License
-This project is licensed under the **MIT License**. See the [LICENSE](./LICENSE) file for details.
+This project is licensed under the **MIT License**. See the [LICENSE](./LICENSE.md) file for details.
 
 ### Third-Party Licenses:
 This project also relies on external data sources and services with separate licensing:
