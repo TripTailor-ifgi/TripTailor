@@ -1,12 +1,18 @@
-## MIT License
+## License
 
 Copyright (c) 2025 [TripTailor]
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
 
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+[![CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc/4.0/)
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+### Permissions & Restrictions:
+- ✅ **You may** copy, redistribute, and adapt the material.
+- ❌ **You may NOT** use it for commercial purposes.
+- 🔗 **You must** provide attribution and indicate if changes were made.
+
+For more details, visit the [official license page](https://creativecommons.org/licenses/by-nc/4.0/).
+
 
 ---
 
@@ -43,3 +49,10 @@ This project makes use of third-party services, including OpenRouteService and o
 - Photon is open-source software.
 - Licensed under the **Apache License, Version 2.0**.
 - More details available in the [Photon repository](https://github.com/komoot/photon).
+
+### GSAP (GreenSock Animation Platform)  
+GSAP follows a **dual license model**:  
+- **Free** for personal, non-commercial, and most commercial use.  
+- **Club GreenSock membership required** for closed-source apps and premium plugins.  
+
+[View full license details](https://gsap.com/community/standard-license/).

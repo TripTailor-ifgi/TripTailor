@@ -51,14 +51,14 @@ Select the desired locations for routing. When done, click **"Start Routing"**.
 ![Add Locations](assets/add_location.png)
 
 ### 4. View and Adjust the Route  
-The initial route will be displayed along with routing descriptions. Users can add or remove locations by clicking the visible icons.
+The initial route will be displayed along with routing descriptions. Users can add or remove locations by clicking the visible icons. When a user clicks on a location, a **popup** appears, displaying **basic information** about the location along with a **button to either add or remove** it from the route, depending on whether it is already included.
 
 ![Initial Map](assets/map_initialroute.png)
 
 ## Credits
 
 1. Contributors
-   - Tobias Brank - [GitHub](https://github.com/TobiasBrand-GI)
+   - Tobias Brand - [GitHub](https://github.com/TobiasBrand-GI)
    - Frederick Schindlegger - [GitHub](https://github.com/f-schi)
    - Wenhao Lan - [GitHub](https://github.com/whlan02)
    - Erkam Dogan - [GitHub](https://github.com/rkmd0)
@@ -85,8 +85,24 @@ The initial route will be displayed along with routing descriptions. Users can a
     - [OpenRouteService API](https://openrouteservice.org/)
     - [OpenStreetMap Data for the City of Münster](https://opendata.stadt-muenster.de/dataset/openstreetmaps-rohdaten-f%C3%BCr-m%C3%BCnster)
 
+## Research Papers
+Before diving into the implementation phase of our project, we thoroughly explored relevant literature to ensure that our approach was grounded on good practices. The following papers were relevant in shaping our understanding:
+
+-  Vansteenwegen, P., & Van Oudheusden, D. (2007). The Mobile Tourist Guide: An or opportunity. *OR Insight, 20*(3), 21–27. [https://doi.org/10.1057/ori.2007.17](https://doi.org/10.1057/ori.2007.17)
+
+-  Makris, A., Tserpes, K., Spiliopoulos, G., & Anagnostopoulos, D. (2019). Performance Evaluation of MongoDB and PostgreSQL for Spatio-temporal Data. *EDBT/ICDT Workshops*
+
+-  Cybulski, P., & Horbiński, T. (2020). User experience in using graphical user interfaces of web maps. *ISPRS International Journal of Geo-Information, 9*(7), 412. [https://doi.org/10.3390/ijgi9070412](https://doi.org/10.3390/ijgi9070412)
+
+-  Quercia, D., Schifanella, R., & Aiello, L. M. (2014). The shortest path to happiness. *Proceedings of the 25th ACM Conference on Hypertext and Social Media*. [https://doi.org/10.1145/2631775.2631799](https://doi.org/10.1145/2631775.2631799)
+
+-  Brown, A., Emmer, N., & van den Worm, J. (2001). Cartographic Design and Production in the Internet Era: The Example of Tourist Web Maps. *The Cartographic Journal, 38*(1), 61–72. [https://doi.org/10.1179/000870401787312921](https://doi.org/10.1179/000870401787312921)
+
+
+
 ## License
-This project is licensed under the **MIT License**. See the [LICENSE](./LICENSE.md) file for details.
+This project is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)**.  
+See the [LICENSE](./LICENSE.md) file for details.
 
 ### Third-Party Licenses:
 This project also relies on external data sources and services with separate licensing:
