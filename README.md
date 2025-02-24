@@ -4,11 +4,12 @@
 
 ## Description
 
-TripTailor is your OpenSource, free to use, automated trip planner which only provides locations and activities that fit your interests.
+TripTailor is an open-source, automated trip planner that personalizes travel itineraries by recommending locations and activities based on user interests, leveraging geospatial data and external APIs for optimized route navigation. Currently in its test stages and limited to the city of Münster, the project addresses the challenge of time-consuming travel planning by simplifying the process for tourists, local businesses, and tourism centers, ensuring efficient and tailored trip experiences.
 
-- What was our motivation?
-- What problem does it solve?
-- (What did we learn?)
+The docker compose file of the project is based on the following GitHub repositories:
+- [Webclient](https://github.com/TripTailor-ifgi/webclient)
+- [Backend](https://github.com/TripTailor-ifgi/backend)
+- [Data Acquisition](https://github.com/TripTailor-ifgi/data_acquisition)
 
 ## Requirements
 
