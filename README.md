@@ -101,7 +101,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 This project makes use of third-party services, including OpenRouteService, which has its own licensing requirements:
 
 - OpenRouteService API results are licensed under **CC-BY 4.0**.
-- Users of this software must comply with OpenRouteService’s [Terms of Service]https://openrouteservice.org/terms-of-service/).
+- Users of this software must comply with OpenRouteService’s [Terms of Service](https://openrouteservice.org/terms-of-service/).
 
 This software itself does not distribute OpenRouteService data but queries it via API. Any usage of OpenRouteService through this project must follow their licensing terms.
 
