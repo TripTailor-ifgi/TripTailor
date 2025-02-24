@@ -14,7 +14,7 @@ The docker compose file of the project is based on the following GitHub reposito
 ## Requirements
 
 1. This project is based on Docker. If necessary, please download the [Docker Desktop App](https://www.docker.com/products/docker-desktop/).
-2. To be able to use the project, a [OpenRouteService API key](https://openrouteservice.org/) is necessary. Replace the placeholder <br> `<YOUR API KEY>` with the acutal key in the .env file.
+2. To be able to use the project, a [OpenRouteService API key](https://openrouteservice.org/) is necessary. Replace the placeholder <br> `<YOUR API KEY>` with the actual key in the .env file.
 
 ## Installation
 
@@ -85,6 +85,24 @@ The initial route will be displayed along with routing descriptions. Users can a
     - [OpenRouteService API](https://openrouteservice.org/)
     - [OpenStreetMap Data for the City of Münster](https://opendata.stadt-muenster.de/dataset/openstreetmaps-rohdaten-f%C3%BCr-m%C3%BCnster)
 
-## License
+## MIT License
+
+Copyright (c) 2025 [Your Name]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+---
+
+## Third-Party Licenses:
+This project makes use of third-party services, including OpenRouteService, which has its own licensing requirements:
+
+- OpenRouteService API results are licensed under **CC-BY 4.0**.
+- Users of this software must comply with OpenRouteService’s [Terms of Service]https://openrouteservice.org/terms-of-service/).
+
+This software itself does not distribute OpenRouteService data but queries it via API. Any usage of OpenRouteService through this project must follow their licensing terms.
 
 ## Badges
