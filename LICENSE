@@ -15,7 +15,7 @@ This project makes use of third-party services, including OpenRouteService and o
 
 ### OpenRouteService
 - OpenRouteService API results are licensed under **CC-BY 4.0**.
-- Users of this software must comply with OpenRouteService’s [Terms of Service](https://openrouteservice.org/terms/).
+- Users of this software must comply with OpenRouteService’s [Terms of Service](https://openrouteservice.org/terms-of-service/).
 - Proper attribution: **© openrouteservice.org by HeiGIT | Map data © OpenStreetMap contributors**.
 - OpenStreetMap data used via OpenRouteService must comply with the [Open Database License](https://opendatacommons.org/licenses/odbl/).
 
