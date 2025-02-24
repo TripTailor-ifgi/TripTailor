@@ -1,3 +1,5 @@
+![Start Image](assets/start_image.jpg)
+
 # TripTailor
 
 ## Description
