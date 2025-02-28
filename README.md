@@ -112,5 +112,3 @@ This project also relies on external data sources and services with separate lic
 - **Photon Geocoding API** (Apache 2.0)
 
 Users of this software must comply with these third-party licenses when using the project.
-
-## Badges
